@@ -4,8 +4,8 @@
 
 First, install the build from npm:
 ```bash
-yarn install @ckeditor/ckeditor5-vue;
-@honglm/ckeditor5-build-simple-upload;
+yarn add @ckeditor/ckeditor5-vue;
+yarn add @honglm/ckeditor5-build-simple-upload;
 ```
 
 Create ckeditor.js in `/plugins` folder
